@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\bin\Debug\net5.0\3 List treinamento.exe
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\bin\Debug\net5.0\3 List treinamento.deps.json
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\bin\Debug\net5.0\3 List treinamento.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\bin\Debug\net5.0\3 List treinamento.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\bin\Debug\net5.0\3 List treinamento.dll
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\bin\Debug\net5.0\ref\3 List treinamento.dll
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\bin\Debug\net5.0\3 List treinamento.pdb
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\3 List treinamento.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\3 List treinamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\3 List treinamento.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\3 List treinamento.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\3 List treinamento.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\3 List treinamento.dll
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\ref\3 List treinamento.dll
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\3 List treinamento.pdb
+C:\Users\PICHAU\Desktop\Vini\Visual Studio C#\3 List treinamento\3 List treinamento\obj\Debug\net5.0\3 List treinamento.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "3 List treinamento/1.0.0": {
+        "runtime": {
+          "3 List treinamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3 List treinamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
